@@ -1,5 +1,5 @@
 # customer-value-analysis-EDA
 
-## this project explores customers' insurance usage and engagement behaviour
+## This project explores customers' insurance usage and engagement behaviour.
 
-The first *Exploratory Data Analysis* is done using SQL on a Postgres database
+The first **Exploratory Data Analysis** is done using SQL on a Postgres database
