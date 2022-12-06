@@ -4,4 +4,5 @@
 
 The first **Exploratory Data Analysis** is done using SQL on a Postgres database
 
-The next step will be Tableau Visualizations
+The visulization is done with Tableau analyst tool and you will get by clicking the following link.
+https://public.tableau.com/app/profile/samuel7590/viz/CustomerValueAnalysis_16684844093730/FirstDashboard
